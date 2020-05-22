@@ -1,1 +1,3 @@
 Inna wersja pliku nadpisze poprzednią wersję.
+
+Kolejne zmiany do wersji 2.0
