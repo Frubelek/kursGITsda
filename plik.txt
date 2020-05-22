@@ -1,1 +1,3 @@
 Inna wersja pliku nadpisze poprzednią wersję.
+
+Dodanie nowej, eksperymentalnej funkcjonalności.
