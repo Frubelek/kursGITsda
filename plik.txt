@@ -1,2 +1,1 @@
-Zmiana w pliku. Blablabla
-
+Inna wersja pliku nadpisze poprzednią wersję.
